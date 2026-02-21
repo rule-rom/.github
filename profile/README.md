@@ -5,12 +5,9 @@
 Rule-ROM is an independent industrial standard developed in Tomsk, Siberia. We provide a deterministic bridge between stochastic AI agents and mission-critical C-systems.
 
 ### 🧩 Ecosystem Nodes:
-- **[Garden-Core](https://intent-garden.org):** The AST-based Enforcer.
+- **[Garden-Core](https://github.com/intent-garden/core):** The AST-based Enforcer.
 - **[Registry](https://github.com/rule-rom/registry):** The immutable library of EDN-contracts.
-- **[Decima8](https://decima8.org):** 20µs Neuromorphic Execution Substrate.
+- **[libWUI](https://github.com/intent-garden/wui):** Ultra-lightweight C++ visualization engine for telemetry systems.
 
-### 🏛️ Strategic Governance
-We offer **10 seats** for World Swarm Architects to define the future of the standard. 
-Current Status: **Baking**.
-
-[rulerom.com](https://rulerom.com) | [intent-garden.org](https://intent-garden.org) | [Support the Mission](https://boosty.to/intentgarden)
+🌿 S-OAK | 📖 Rule-Rom | 🖼️ LibWUI
+[🌿 S-OAK](https://intent-garden.org) | [📖 Rule-Rom](https://rulerom.com) |  [🖼️ LibWUI](https://libwui.org)
