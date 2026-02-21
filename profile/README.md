@@ -9,5 +9,4 @@ Rule-ROM is an independent industrial standard developed in Tomsk, Siberia. We p
 - **[Registry](https://github.com/rule-rom/registry):** The immutable library of EDN-contracts.
 - **[libWUI](https://github.com/intent-garden/wui):** Ultra-lightweight C++ visualization engine for telemetry systems.
 
-🌿 S-OAK | 📖 Rule-Rom | 🖼️ LibWUI
 [🌿 S-OAK](https://intent-garden.org) | [📖 Rule-Rom](https://rulerom.com) |  [🖼️ LibWUI](https://libwui.org)
