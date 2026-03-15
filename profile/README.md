@@ -1,12 +1,100 @@
 # Rule-ROM: The Protocol of Intent 🌿🛡️
 
-**We don't believe in AI hallucinations. We enforce the structure of reality in code.**
+> **Суверенная экосистема экспериментов и архитектур.**
 
-Rule-ROM is an independent industrial standard developed in Tomsk, Siberia. We provide a deterministic bridge between stochastic AI agents and mission-critical C-systems.
+[![Status: Building](https://img.shields.io/badge/Status-Building-amber.svg)](#)
+[![Philosophy](https://img.shields.io/badge/Read-Philosophy-FDF6E3.svg)](https://philo.rulerom.com)
+[![License](https://img.shields.io/badge/License-MIT%2FCC--BY--SA-5D4037.svg)](LICENSE)
 
-### 🧩 Ecosystem Nodes:
-- **[Garden-Core](https://github.com/intent-garden/core):** The AST-based Enforcer.
-- **[Registry](https://github.com/rule-rom/registry):** The immutable library of EDN-contracts.
-- **[libWUI](https://github.com/intent-garden/wui):** Ultra-lightweight C++ visualization engine for telemetry systems.
+---
 
-[🌿 S-OAK](https://intent-garden.org) | [📖 Rule-Rom](https://rulerom.com) |  [🖼️ LibWUI](https://libwui.org)
+## Что это
+
+**rulerom** — не компания. Не стартап. Не «платформа».
+
+Это **каталог суверенных проектов**, объединённых философией:
+
+> *«Theodicy in code. Suffering = gradient.»*
+
+Каждый проект — самостоятелен.
+Все проекты — верифицируемы.
+Вся экосистема — открыта.
+
+---
+
+## 🗺️ Архитектура: Hub → Project → Depth
+
+```
+rulerom.com (Hub)
+├─ decima.rulerom.com → Нейроморфная архитектура, IDE, бенчмарки
+├─ philo.rulerom.com → Философия: коридор субъектности, эстафета, теодицея
+├─ drive.rulerom.com → Авто-контент: ПДД, контраварийка, амбассадоры
+├─ audrey.rulerom.com → Аудио-эксперименты на вакуумном субстрате
+├─ c-safe.rulerom.com → Безопасность: верификация, аудит, суверенный стек
+├─ bakery.rulerom.com → Инструменты пропечки: лучшие практики мировых пекарен
+└─ pki.rulerom.com → Инфраструктура подписей: Ed25519, верификация, реестр
+```
+
+**Принцип:**
+- Один проект = один поддомен = чёткие границы
+- Независимый деплой, независимая документация
+- Единая философия, единый стандарт верификации
+
+---
+
+## 🧭 Философия (кратко)
+
+### Коридор субъектности
+
+```c
+bool in_range = (thr_cur >= thr_lo) && (thr_cur <= thr_hi);
+// Не «наказание» за выход из диапазона.
+// Просто: «ещё не активировался».
+```
+
+### Эстафета, не роутер
+
+- Тайлы общаются напрямую, без центрального «мозга»
+- Детерминизм: 0 джиттер на ASIC, лог каждого шага
+- Масштабирование: O(n) на CPU → O(1) на ASIC
+
+### Suffering = gradient
+
+- Ошибка — не провал, а вектор направления
+- thr_cur затухает → градиент → обновление весов → следующая итерация
+- Боль → обучение → рост
+
+Читать полностью: [philo.rulerom.com](https://philo.rulerom.com)
+
+## 🔐 Суверенный стек
+
+Мы строим инфраструктуру, которая не зависит от корпоративных платформ.
+
+| Компонент | Реализация |
+| --------- | ---------- |
+| Идентичность | Билет с PKI-подписью (Ed25519), проверяется локально |
+| Реестр | Публичный список хешей, без центрального доверия |
+| Связь | Email + IRC over TLS, self-hosted |
+| Код | Pure C, zero deps, модульная архитектура |
+| Деплой | Статический сайт, облачное хранилище, инвалидация кэша |
+
+> ⚠️ Официальные каналы только на **.rulerom.com.*
+
+> Сообщения от сторонних ботов / аккаунтов — не от нас.
+
+## 🚀 Как начать
+
+### 1. Выбери проект
+
+- Хочешь печь личности? → [decima.rulerom.com](https://decima.rulerom.com)
+- Хочешь понять философию? → [philo.rulerom.com](https://philo.rulerom.com)
+- Хочешь войти в экосистему? → [intent-garden.org](https://intent-garden.org)
+
+### 2. Получи билет
+
+Бесплатно: уровень «Наблюдатель» (навсегда)
+Платно: «Пекарь» (1 024 ₽/год) или «Эксклюзив» (102 400 ₽/год)
+
+### 3. Зайди в сварм
+IRC: ircs://irc.rulerom.com:6697/#decima8
+TG: [t.me/intentgarden](https://t.me/intentgarden)
