@@ -92,10 +92,10 @@ bool in_range = (thr_cur >= thr_lo) && (thr_cur <= thr_hi);
 
 ### 2. Получи билет
 
-Бесплатно: уровень «Наблюдатель» (навсегда)
-Платно: «Пекарь» (1 024 ₽/год) или «Эксклюзив» (102 400 ₽/год)
+- Бесплатно: уровень «Наблюдатель» (навсегда)
+- Платно: «Пекарь» (1 024 ₽/год) или «Эксклюзив» (102 400 ₽/год)
 
 ### 3. Зайди в сварм
 
-- IRC: ircs://irc.rulerom.com:6697/#decima8
-- TG: [t.me/intentgarden](https://t.me/intentgarden)
+- #️⃣ IRC: ircs://irc.rulerom.com:6697/#decima8
+- 📢 TG: [t.me/intentgarden](https://t.me/intentgarden)
